@@ -1,5 +1,5 @@
 # ETG-Python-for-AI-ML-Internship
-JSON Based Inventory Management System
+##JSON Based Inventory Management System
 
 **About the Repository?**
 
